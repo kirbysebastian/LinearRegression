@@ -1,4 +1,3 @@
-# LinearRegression
 Python implementation for Linear Regression
 
 Machine Learning by Stanford University
