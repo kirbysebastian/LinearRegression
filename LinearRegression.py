@@ -2,9 +2,12 @@
 ----DESCRIPTION HERE!----
 
 TODO LIST:
- - todo 1
- - todo 2
- - todo 3
+ - Fix CostFunction to support multivariable inputs
+ - Fix GradientDescent to support multivariable inputs
+ - Fix GradientChecking to support multivariable inputs
+ - Add description
+ - Structurize the project
+ - Create Tests for each class
 '''
 import sys
 sys.setrecursionlimit(10**6)
